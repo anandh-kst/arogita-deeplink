@@ -3,7 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "YOUR_TEAM_ID.YOUR_BUNDLE_ID"
+          "appIDs": ["8LBXA7C7TR.com.arogita.app"],
+        "components": [{ "/": "/*" }]
         ],
         "components": [
           {
